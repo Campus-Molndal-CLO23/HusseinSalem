@@ -19,4 +19,4 @@ Strategi, Action
 | Intersteller | Led Zeppelin | Civilisation |
 
 
-![Bild på mig](readme/Jag.kopia1.jpg)
+![Bild på mig](Jag.kopia1.jpg)
